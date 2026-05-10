@@ -224,7 +224,7 @@ Before opening the dashboard, please ensure the following are installed:
 Download both:
 
 - the `.pbix` Power BI dashboard file
-- the `.csv` dataset file
+- navigate to https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset and download the `customer_support_tickets.csv` dataset file
 
 Place both files in the same local folder on your computer.
 
